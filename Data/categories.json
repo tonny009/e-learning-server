@@ -1,0 +1,82 @@
+[
+  {
+    "id": "01",
+    "name": "HTML",
+    "ratings": "4.5",
+    "Course_description": "hjgjkggkgk",
+    "enrolled": "3M",
+    "image": "https://store-images.s-microsoft.com/image/apps.36736.13898118890231671.27500cc3-3164-4991-bf71-0c71291c12fb.96720775-1459-4dde-8867-344ae2e74963?mode=scale&q=90&h=300&w=300"
+  },
+  {
+    "id": "02",
+    "name": "CSS",
+    "ratings": "4.9",
+    "Course_description": "hjgjkggkgk",
+    "enrolled": "10M",
+    "image": "https://miro.medium.com/max/750/0*GpOUO1n2m49hMkbh.jpg"
+  },
+  {
+    "id": "03",
+    "name": "Bootstrap",
+    "ratings": "4.0",
+    "Course_description": "hjgjkggkgk",
+    "enrolled": "60k",
+    "image": "https://miro.medium.com/max/1400/0*I0eQqdk9lOWDwhEU.jpg"
+  },
+  {
+    "id": "04",
+    "name": "SQL",
+    "ratings": "3.9",
+    "Course_description": "hjgjkggkgk",
+    "enrolled": "1M",
+    "image": "https://s3.amazonaws.com/freecodecamp/news-sql-full-course.jpg"
+  },
+  {
+    "id": "05",
+    "name": "PHP",
+    "ratings": "4.2",
+    "Course_description": "hjgjkggkgk",
+    "enrolled": "6k",
+    "image": "https://miro.medium.com/max/750/0*zqNMYY5rMsu6jJCP.jpg"
+  },
+  {
+    "id": "06",
+    "name": "MongoDB",
+    "ratings": "4.0",
+    "Course_description": "hjgjkggkgk",
+    "enrolled": "4M",
+    "image": "https://www.educative.io/v2api/collection/10370001/5227455105204224/image/6349680696885248"
+  },
+  {
+    "id": "07",
+    "name": "JavaScript",
+    "ratings": "4.5",
+    "Course_description": "hjgjkggkgk",
+    "enrolled": "3.6M",
+    "image": "https://www.freecodecamp.org/news/content/images/2021/06/javascriptfull.png"
+  },
+  {
+    "id": "08",
+    "name": "React JS",
+    "ratings": "5",
+    "Course_description": "hjgjkggkgk",
+    "enrolled": "100k",
+    "image": "https://img2.exportersindia.com/product_images/bc-full/2020/4/7004235/react-js-course-1586418353-5364397.jpg"
+  },
+  {
+    "id": "09",
+    "name": "Vue",
+    "ratings": "5",
+    "Course_description": "hjgjkggkgk",
+    "enrolled": "8M",
+    "image": "https://c8.alamy.com/comp/2E8XJNF/vuejs-inscription-against-laptop-and-code-background-learn-vue-programming-language-computer-courses-training-2E8XJNF.jpg"
+  },
+  {
+    "id": "08",
+    "name": "Angular",
+    "ratings": "4.5",
+    "Course_description": "hjgjkggkgk",
+    "enrolled": "3.9M",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-ozoGHnSPNvpkpGZh_DGRpXjp_HiK-p__1NcSiF5ngUnu__KFBQwqBVN8ua_7UY23Wc&usqp=CAU"
+  }
+]
