@@ -5,78 +5,88 @@
     "ratings": "4.5",
     "Course_description": "Have you ever wanted to learn to code but don't know where to start? Learning how to code can get you a better job and lead to a better future. This course starts you off with the basic coding language of HTML. This is a very condensed 1 hour tutorial that will show you how to code in HTML. Enroll to begin your journey to be a web development master.  Take this 1 hour course as the absolute first course you take in coding. It's short and to the point. You won't regret it. HTML is the building block of the web and other markup languages. This is the foundational course you need to have in your library.",
     "enrolled": "3M",
+    "courseLink": "https://www.udemy.com/course/1-hour-html/",
     "image": "https://store-images.s-microsoft.com/image/apps.36736.13898118890231671.27500cc3-3164-4991-bf71-0c71291c12fb.96720775-1459-4dde-8867-344ae2e74963?mode=scale&q=90&h=300&w=300"
   },
   {
     "id": "02",
     "name": "CSS",
     "ratings": "4.9",
-    "Course_description": "hjgjkggkgk",
+    "Course_description": " In this tutorial series you get to learn about CSS. CSS is the number design language for the web. CSS is easy to learn and it is used in most web development today. This course is a 1 hour course of action packed material. By the end of it you will have a firm understanding of the concepts of CSS. ",
     "enrolled": "10M",
+    "courseLink": "https://www.udemy.com/course/1-hour-css/",
     "image": "https://miro.medium.com/max/750/0*GpOUO1n2m49hMkbh.jpg"
   },
   {
     "id": "03",
     "name": "Bootstrap",
     "ratings": "4.0",
-    "Course_description": "hjgjkggkgk",
+    "Course_description": "Bootstrap is currently the single most used library on all of Github, beating out other tools like React and Angular! It's immensely popular, and with good reason: it makes creating responsive websites a breeze.This course will take you from knowing nothing about Bootstrap 3 or 4 to learning all of the utilities, components, widgets and grids and building real world themes and websites. You do NOT need to know Bootstrap 3 for this course.if you already know Bootstrap 3, this course will serve a complete guide to all the new changes and improvements in Bootstrap 4. By the time we're done, you'll master every single component, the powerful grid system, and the brand-new utility classes.",
     "enrolled": "60k",
+    "courseLink": "https://www.udemy.com/course/bootstrap-from-scratch-fast-and-responsive-web-development/",
     "image": "https://miro.medium.com/max/1400/0*I0eQqdk9lOWDwhEU.jpg"
   },
   {
     "id": "04",
     "name": "SQL",
     "ratings": "3.9",
-    "Course_description": "hjgjkggkgk",
+    "Course_description": "The great thing is, for this course, you do not need any prior experience in programming what so ever. SQL is a different animal and we're going to demystify the language from scratch and prepare you with plenty of progressively challenging assignments so that by the time you've completed the course (in 2 months), you can call your self an Oracle SQL Master! Oracle is the most popular relational database in the world! This course will prepare you to be job-ready in just 1 month of study and practice.",
     "enrolled": "1M",
+    "courseLink": "https://www.udemy.com/course/the-complete-oracle-sql-certification-course/?gclid=Cj0KCQjwteOaBhDuARIsADBqReiHiUh5Lqd2p8Vluu5E10-lwUXg8IljfJsMhOlkBFyDH1W-zbeh1ssaAjTqEALw_wcB&matchtype=b&utm_campaign=SQL_v.PROF_la.EN_cc.JP_ti.7862&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_117007768744_._ad_469117554423_._kw_sql+language+course_._de_c_._dm__._pl__._ti_kwd-295105515302_._li_9053285_._pd__._",
     "image": "https://s3.amazonaws.com/freecodecamp/news-sql-full-course.jpg"
   },
   {
     "id": "05",
     "name": "PHP",
     "ratings": "4.2",
-    "Course_description": "hjgjkggkgk",
+    "Course_description": "Then this course will help you get all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi, and ending the course by building a CMS system similar to WordPress, Joomla, or Drupal.",
     "enrolled": "6k",
+    "courseLink": "https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/?gclid=Cj0KCQjwteOaBhDuARIsADBqRehG1u7YInBdRDr0seP7r32kgMHRnpk7YoENCQOzpKKZJQ1qXhUyxSEaApHnEALw_wcB&matchtype=b&utm_campaign=LongTail_la.EN_cc.JP&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_105459441250_._ad_469120491573_._kw_%2Bphp+%2Blearning_._de_c_._dm__._pl__._ti_kwd-303870406319_._li_9053285_._pd__._",
     "image": "https://miro.medium.com/max/750/0*zqNMYY5rMsu6jJCP.jpg"
   },
   {
     "id": "06",
     "name": "MongoDB",
     "ratings": "4.0",
-    "Course_description": "hjgjkggkgk",
+    "Course_description": "The Complete Node.js Developer Course covers the fundamentals of Node before diving deep into great tools like Express, Mongoose, and MongoDB.The entire course is based around a single goal: Turning you into a professional Node developer capable of developing, testing, and deploying real-world production applications.",
     "enrolled": "4M",
+    "courseLink": "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/?gclid=Cj0KCQjwteOaBhDuARIsADBqReh759ucui9xWuhU4GaSsro5wB7NGMrNiBWKuHH5EkTGrqo3ET1kwKIaAhE5EALw_wcB&matchtype=b&utm_campaign=LongTail_la.EN_cc.JP&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_105459410610_._ad_469179396641_._kw_%2Bmongodb+%2Bcourse_._de_c_._dm__._pl__._ti_kwd-319025163297_._li_9053285_._pd__._",
     "image": "https://www.educative.io/v2api/collection/10370001/5227455105204224/image/6349680696885248"
   },
   {
     "id": "07",
     "name": "JavaScript",
     "ratings": "4.5",
-    "Course_description": "hjgjkggkgk",
+    "Course_description": " If you take this course you will start the fantastic process of learning to code which will lead you to a better life. Coding is one of the most in demand skills if you can code you have a job.The best part is that this is for complete beginners! Coding is a fantastic career to get into and this is the first course you should take. All web developers start with JavaScript and it is by far the easiest language to learn. JavaScript is one of the most prominent languages out there. When JavaScript first came out, it was really basic but now it's the building block of almost any web application. JavaScript developers will always be in demand.",
     "enrolled": "3.6M",
+    "courseLink": "https://www.udemy.com/course/1-hour-javascript/",
     "image": "https://www.freecodecamp.org/news/content/images/2021/06/javascriptfull.png"
   },
   {
     "id": "08",
     "name": "React JS",
     "ratings": "5",
-    "Course_description": "hjgjkggkgk",
+    "Course_description": "We will start from the very beginning, from I don't even know how use it..and why would I“ to actually understanding how React works and make it communicate with other technologies like Node JS.You will learn all the logic and practice behind React in different modules, and as we advance through the course we will be increasing the difficulty",
     "enrolled": "100k",
+    "courseLink": "https://www.udemy.com/course/the-complete-react-fullstack-course/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.JP_ti.8322&utm_content=deal4584&utm_term=_._ag_118675755028_._ad_621717693484_._kw__._de_c_._dm__._pl__._ti_dsa-774930032609_._li_9053285_._pd__._&matchtype=&gclid=Cj0KCQjwteOaBhDuARIsADBqRegGqMWm3SmvBiRCLZ2vXFHxmt_95w17e7yvrG5NLm7N5zSDzI2GizgaAkMXEALw_wcB",
     "image": "https://img2.exportersindia.com/product_images/bc-full/2020/4/7004235/react-js-course-1586418353-5364397.jpg"
   },
   {
     "id": "09",
     "name": "Vue",
     "ratings": "5",
-    "Course_description": "",
+    "Course_description": "This bestselling course teaches the latest version of Vue (Vue.js 3) from the ground up and in great detail. We'll cover all the core basics but we'll not stop thereafter - this course also dives into advanced concepts like the Composition API introduced with Vue 3.",
     "enrolled": "8M",
+    "courseLink": "https://www.udemy.com/course/vuejs-2-the-complete-guide/?gclid=Cj0KCQjwteOaBhDuARIsADBqReh3Q67OATfsQsqya7vJGPK-OiY8veWB27hbBR_bWdgV5jTbkYZ0OOoaAqkqEALw_wcB&matchtype=b&utm_campaign=LongTail_la.EN_cc.JP&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_111910038604_._ad_469178652461_._kw_%2Bvue+%2Bjs+%2Bcourses_._de_c_._dm__._pl__._ti_kwd-628292713617_._li_9053285_._pd__._",
     "image": "https://c8.alamy.com/comp/2E8XJNF/vuejs-inscription-against-laptop-and-code-background-learn-vue-programming-language-computer-courses-training-2E8XJNF.jpg"
   },
   {
     "id": "10",
     "name": "Angular",
     "ratings": "4.5",
-    "Course_description": "hjgjkggkgk",
+    "Course_description": "Join the most comprehensive and bestselling Angular course and learn all about this amazing framework from the ground up, in great depth!Angular 13 simply is the latest version of Angular 2, you will learn this amazing framework from the ground up in this course!",
     "enrolled": "3.9M",
+    "courseLink": "https://www.udemy.com/course/vuejs-2-the-complete-guide/?gclid=Cj0KCQjwteOaBhDuARIsADBqReh3Q67OATfsQsqya7vJGPK-OiY8veWB27hbBR_bWdgV5jTbkYZ0OOoaAqkqEALw_wcB&matchtype=b&utm_campaign=LongTail_la.EN_cc.JP&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_111910038604_._ad_469178652461_._kw_%2Bvue+%2Bjs+%2Bcourses_._de_c_._dm__._pl__._ti_kwd-628292713617_._li_9053285_._pd__._",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-ozoGHnSPNvpkpGZh_DGRpXjp_HiK-p__1NcSiF5ngUnu__KFBQwqBVN8ua_7UY23Wc&usqp=CAU"
   }
 ]
