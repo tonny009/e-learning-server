@@ -73,7 +73,7 @@
   },
   {
     "id": "09",
-    "name": "Vue",
+    "name": "Vues",
     "ratings": "5",
     "Course_description": "This bestselling course teaches the latest version of Vue (Vue.js 3) from the ground up and in great detail. We'll cover all the core basics but we'll not stop thereafter - this course also dives into advanced concepts like the Composition API introduced with Vue 3.",
     "enrolled": "8M",
